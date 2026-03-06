@@ -1,7 +1,6 @@
 # Let's Battle!!! ⚔️
 
 > 一个基于 C++ 和 SFML 的高性能实时战略 (RTS) 游戏引擎。
-> **数据结构课程大作业**
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue) ![SFML](https://img.shields.io/badge/Library-SFML-green) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
@@ -111,11 +110,11 @@ g++ Game.o -o BattleGame -L"C:/SFML/lib" -lsfml-graphics -lsfml-window -lsfml-sy
 
 ---
 
-## 👨‍💻 作者
+##  作者
 
 **mygqdmmss**
 *   Data Structure Course Project (C++ & SFML)
 
-## 📄 许可证
+##  许可证
 
 本项目供学习与交流使用。
