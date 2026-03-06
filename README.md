@@ -82,7 +82,19 @@
 
 ## 🚀 快速开始 (Getting Started)
 
-### 环境依赖
+### 选项 A：下载即玩 (Recommended)
+
+我们在 GitHub Releases 中提供了打包好的绿色版，无需安装环境，下载解压即可运行。
+
+1.  前往 [**Releases 页面**](../../releases) 下载最新的 `Let's Battle v1.0.zip`。
+2.  解压压缩包。
+3.  双击 `Game.exe` 即可开始游戏！
+
+### 选项 B：源码编译 (For Developers)
+
+如果您想学习源码或进行二次开发，请按照以下步骤配置环境。
+
+#### 环境依赖
 1.  确保已安装 C++ 编译器 (如 g++ 8.0+).
 2.  下载并配置 [SFML](https://www.sfml-dev.org/download.php) 开发库 (Headers & Libs).
 
