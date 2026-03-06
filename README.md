@@ -112,7 +112,7 @@ g++ Game.o -o BattleGame -L"C:/SFML/lib" -lsfml-graphics -lsfml-window -lsfml-sy
 
 ##  作者
 
-**mygqdmmss**
+**Loong**
 *   Data Structure Course Project (C++ & SFML)
 
 ##  许可证
